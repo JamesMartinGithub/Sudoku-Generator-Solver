@@ -35,6 +35,8 @@ Solved: 1 solution(s)
 5  7  9  6  1  3  8  2  4
 4  1  6  8  9  2  5  7  3
 2  3  8  5  7  4  1  6  9
+
+Elapsed time: 00:00:00.0309032
 ```
 
 ### Implementation:
